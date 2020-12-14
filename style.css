@@ -1,0 +1,67 @@
+body {
+  background-color:rgba(41, 73, 110, 0.39);
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+.perf {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+#section {
+  background-color: rgb(221, 219, 219);
+  font-size: 18px;
+}
+
+.trab {
+  font-size: 20px;
+}
+
+.flex {
+  font-size: 22px;
+}
+
+.ati {
+  font-size: 24px;
+}
+
+.emp {
+  font-size: 26px;
+}
+
+
+.boa {
+  font-size: 28px;
+}
+
+#info {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#msm {
+  border-radius: 70px;
+}
+
+.foto {
+  text-align: center;
+}
+
+.infos {
+  background-color: rgb(175, 192, 175);
+}
+
+#footer {
+  background-color: rgb(177, 159, 159);
+  display: inline;
+}
+
+.habilidades {
+  display: inline-flex;
+}
+
+.habilidades-trybe {
+  display: inline-block;
+}
